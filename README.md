@@ -28,7 +28,6 @@ This notebook demonstrates:
 - Jupyter Notebook for prototyping
 - (Optional) IBM Watson, IBM Cloud resources
 
-## 📁 File Structure
 
 
 ##  Setup Instructions

@@ -1,8 +1,17 @@
 BOTH THE ABOVE FILES ARE SAME
 
-# RAG Agent IBM Assistant
 
+
+3.💡 To use this project, you'll need an API key from [Replicate](https://replicate.com).
+
+Visit: https://replicate.com/account
+
+
+
+## RAG Agent IBM Assistant
 This project implements a Retrieval-Augmented Generation (RAG) based AI assistant tailored to IBM-specific data or use cases. It leverages the power of language models combined with external document retrieval to provide more accurate, grounded, and up-to-date responses.
+
+
 
 ## 🔍 Overview
 
@@ -48,7 +57,12 @@ This notebook demonstrates:
    pip install -r requirements.txt
 
 
-3.Run the notebook
+   Visit: https://replicate.com/account
+
+
+
+
+4.Run the notebook
 
   Open rag_agent_ibm.ipynb in Jupyter and execute the cells sequentially.
 

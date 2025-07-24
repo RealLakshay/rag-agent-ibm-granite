@@ -1,3 +1,5 @@
+BOTH THE ABOVE FILES ARE SAME
+
 # RAG Agent IBM Assistant
 
 This project implements a Retrieval-Augmented Generation (RAG) based AI assistant tailored to IBM-specific data or use cases. It leverages the power of language models combined with external document retrieval to provide more accurate, grounded, and up-to-date responses.
